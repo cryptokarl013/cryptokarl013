@@ -2,23 +2,12 @@
 
 My name is Crypto Karl, a white hacker and crypto detective.
 
-Crypto investigations:
-* [Public Report #0134 Stolen 100 ETHs Leads to NFT Whales (25mln$ worth) and a real company (6mln$ investments and 50mln$ coin cap) | undeads.com was funded with dirty money from investors]([http://switchere.com](https://github.com/cryptokarl013/report-0134-stolen-ETHs-Leads-to-NFT-Whales-and-a-real-company-undeads-com))
+## Investigations:
+* [Public Report #0134 Stolen 100 ETHs Leads to NFT Whales (25mln$ worth) and a real company (6mln$ investments and 50mln$ coin cap) | undeads.com was funded with dirty money from investors]([http://switchere.com](https://github.com/cryptokarl013/report-0134-stolen-ETHs-Leads-to-NFT-Whales-and-a-real-company-undeads-com)
 
 
-My donation ETH address: 0x0206AfA1A71cc833b8ade7a94748b6638798F193
+## Donations
 
-<!--
-**cryptokarl013/cryptokarl013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Donations to support this and future investigations are welcome at the following ETH address: 0x0206AfA1A71cc833b8ade7a94748b6638798F193.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+For any further clarification regarding the current investigation, please contact [cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com). Any assistance that helps enrich the investigation would be greatly appreciated.
