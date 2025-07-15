@@ -10,4 +10,4 @@ My name is Crypto Karl, a white hacker and crypto detective.
 
 Donations to support this and future investigations are welcome at the following ETH address: 0x0206AfA1A71cc833b8ade7a94748b6638798F193.
 
-For any further clarification regarding the current investigation, please contact [cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com). Any assistance that helps enrich the investigation would be greatly appreciated.
+In case of any questions please contact [cryptokarl013@gmail.com](mailto:cryptokarl013@gmail.com). 
